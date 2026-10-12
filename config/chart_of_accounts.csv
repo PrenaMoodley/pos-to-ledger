@@ -1,0 +1,11 @@
+number,name,category
+1010,Cash on hand,Asset
+1020,Card clearing,Asset
+1100,Guest ledger (room charges),Asset
+2200,VAT output,Liability
+4100,Restaurant food sales,Income
+4110,Restaurant beverage sales,Income
+4200,Pool bar food sales,Income
+4210,Pool bar beverage sales,Income
+4300,Room service food sales,Income
+6900,Cash over/short,Expense

@@ -1,0 +1,17 @@
+{
+  "sales": {
+    "Restaurant|Food": "4100",
+    "Restaurant|Beverage": "4110",
+    "Pool Bar|Food": "4200",
+    "Pool Bar|Beverage": "4210",
+    "Room Service|Food": "4300"
+  },
+  "tenders": {
+    "Cash": "1010",
+    "Card": "1020",
+    "Room Charge": "1100"
+  },
+  "vat_output": "2200",
+  "over_short": "6900",
+  "over_short_limit": "50.00"
+}
